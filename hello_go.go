@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-   fmt.Println("Hello, World!")
+   fmt.Println("Hello,World!")
 
    var a, b, c = 3, 4, "foo"  
 	
